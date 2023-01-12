@@ -5,7 +5,7 @@
 -  I want to write code, and I love coding.
 -  How to reach me insta:badr_sh00 twitter:BadrSouhar
 
-![bsouhar's 42 stats](https://activity-graph.herokuapp.com/graph?username=badreddinesouhar&theme=redical)
+[![bsouhar's 42 stats](https://badge.mediaplus.ma/greenbinary/bsouhar)](https://github.com/oakoudad/badge42)
 <!---
 badreddinesouhar/badreddinesouhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
