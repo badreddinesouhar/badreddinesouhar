@@ -3,7 +3,8 @@
 -  I’m currently learning C, and web development using rust.
 -  I’m looking to collaborate on anything i am currently learning so i will be happy contribute anything i could help whith.
 -  I want to write code, and I love coding.
--  How to reach me insta:badr_sh00 twitter:BadrSouhar
+-  How to reach me on instagram : badr_sh00
+-  How to reach me on twitter : BadrSouhar
 
 [![bsouhar's 42 stats](https://badge.mediaplus.ma/greenbinary/bsouhar)](https://github.com/oakoudad/badge42)
 <!---
