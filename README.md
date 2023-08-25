@@ -1,8 +1,6 @@
 -  Hi, I’m @badreddinesouhar, student at 1337(42 Network)
 -  I’m interested in C, C++...
--  I’m currently learning C, and web development using rust.
--  I’m looking to collaborate on anything i am currently learning so i will be happy contribute anything i could help whith.
--  I want to write code, and I love coding.
+-  I’m currently learning C,C++,python and web development.
 -  How to reach me on instagram : badr_sh00
 -  How to reach me on twitter : BadrSouhar
 
