@@ -20,15 +20,14 @@ I'm proficient in coding with C and C++, and I'm continually expanding my knowle
 ## 🚀 Projects
 
 Here are some of the projects I've worked on:
-- [Project 1]: Brief description
-- [Project 2]: Brief description
+- []: 
+- []: 
 - [Movie Recommender]: A Django-based web application that provides personalized movie recommendations to users.
 
 ## 📫 How to Reach Me
 
 - Twitter: [@BadrSouhar](https://twitter.com/BadrSouhar)
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email Address]
+- LinkedIn: [https://www.linkedin.com/in/badr-eddine-souhar-587260250/]
 
 ## 📊 GitHub Stats
 
