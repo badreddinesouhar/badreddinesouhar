@@ -1,9 +1,3 @@
-# Badreddine Souhar - Full-Stack Developer
-
-## 👋 Hi there! 
-
-I'm Badreddine Souhar, a student at 1337 (42 Network) and a passionate full-stack developer. I love crafting efficient, scalable, and user-friendly solutions to complex problems.
-
 ## 💻 Technical Skills
 
 - **Backend:** C, C++, Python, Django, REST API
@@ -11,18 +5,6 @@ I'm Badreddine Souhar, a student at 1337 (42 Network) and a passionate full-stac
 - **Database:** SQL, PostgreSQL
 - **DevOps:** Docker, Bash scripting
 - **Version Control:** Git
-- **Other:** Data Structures, Algorithms
-
-## 🌱 Always Learning
-
-I'm proficient in coding with C and C++, and I'm continually expanding my knowledge into new and emerging technologies. My journey at 1337 has equipped me with strong problem-solving skills and a deep understanding of computer science fundamentals.
-
-## 🚀 Projects
-
-Here are some of the projects I've worked on:
-- []: 
-- []: 
-- [Movie Recommender]: A Django-based web application that provides personalized movie recommendations to users.
 
 ## 📫 How to Reach Me
 
